@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://vremya-show38.ru/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://vremya-show38.ru/img/og-image.jpg</image:loc><image:title>Время шоу — аниматоры Ангарск и Усолье-Сибирское</image:title></image:image>
+    <image:image><image:loc>https://vremya-show38.ru/img/photo/team.jpg</image:loc><image:title>Команда аниматоров «Время шоу»</image:title></image:image>
+    <image:image><image:loc>https://vremya-show38.ru/img/photo/pika-bubbles.jpg</image:loc><image:title>Шоу мыльных пузырей на детском празднике</image:title></image:image>
+    <video:video><video:thumbnail_loc>https://vremya-show38.ru/img/photo/reel-tsirk-karnaval.jpg</video:thumbnail_loc><video:title>Цирковой карнавал — новогоднее представление</video:title><video:description>10 новогодних представлений за 4 дня в Усолье-Сибирском и Ангарске</video:description><video:content_loc>https://vremya-show38.ru/video/tsirk-karnaval.mp4</video:content_loc></video:video>
+    <video:video><video:thumbnail_loc>https://vremya-show38.ru/img/photo/reel-fokusy.jpg</video:thumbnail_loc><video:title>Шоу фокусов на день рождения</video:title><video:description>Безумный Шляпник, огоньки и громкий смех</video:description><video:content_loc>https://vremya-show38.ru/video/fokusy.mp4</video:content_loc></video:video>
+  </url>
+  <url>
+    <loc>https://vremya-show38.ru/privacy.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+</urlset>

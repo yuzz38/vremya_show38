@@ -1,0 +1,13 @@
+{
+  "name": "Время шоу — аниматоры Ангарск и Усолье-Сибирское",
+  "short_name": "Время шоу",
+  "lang": "ru",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#fff6ea",
+  "theme_color": "#24103f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
